@@ -1,6 +1,6 @@
 # Building with Bazel
 
-# 用 Bazel 进行构建
+# 用 Bazel 进行构建（su add)
 
 
 This guide explains how to build and test Angular apps with Bazel. 
