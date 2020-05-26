@@ -10,7 +10,7 @@ These Angular docs help you learn and use the Angular framework and development 
 Tutorials and guides include downloadable examples to accelerate your projects.
 
 这份 Angular 文档会帮助你学习和使用 Angular 框架与开发平台，从你的第一个应用开始，一直到优化复杂的企业级单页面应用。
-这些教程和指南中都包含可下载的范例，以加速你的学习。
+这些教程和指南中都包含可下载的范例，以加速学习。
 
 <div class="card-container">
   <a href="start" class="docs-card" title="Angular Getting Started">
